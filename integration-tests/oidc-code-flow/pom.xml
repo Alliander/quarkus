@@ -16,7 +16,7 @@
 
     <properties>
         <keycloak.url>http://localhost:8180/auth</keycloak.url>
-        <htmlunit.version>2.36.0</htmlunit.version>
+        <htmlunit.version>2.37.0</htmlunit.version>
     </properties>
 
     <dependencies>
